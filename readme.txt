@@ -1,4 +1,4 @@
-Issue 5:​
+Steps​
 
 1.vi /etc/dnsmasq.conf​
 
@@ -28,6 +28,6 @@ add-subnet​
 
 ​
 
-2. python3 issue5.py​
+2. python3 exp.py​
 
 ​
