@@ -6,15 +6,15 @@ import threading
 import time
 from typing import Tuple
 
-# ====== 設定 ======
-DNS_LISTEN_IP = "192.168.168.1"
+# ====== setting ======
+DNS_LISTEN_IP = "xxx.xxx.xxx.x"
 DNS_PORT = 5353
 
-# dnsmasq IP（你的測試環境）
+# dnsmasq IP
 DNSMASQ_IP = "127.0.0.1"
 DNSMASQ_UPSTREAM_PORT = 5354
 
-# 回應的假 IP
+# fake IP
 FAKE_IP = "1.2.3.4"
 
 # Only answer this qname to avoid responding to unrelated multicast/local traffic
