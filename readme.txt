@@ -1,3 +1,6 @@
+Topology:
+https://medium.com/@yanyuyingshu/reproduction-journal-dnsmasq-ecs-validation-and-buffer-overflow-flaws-e0fe0f66f60c
+
 Steps​
 
 1.vi /etc/dnsmasq.conf​
